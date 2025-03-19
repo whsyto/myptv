@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,hlj
-http://221.210.64.165:2233/hls/1/index.m3u8
+http://119.91.33.253/migu.php?id=cctv1 
 #EXTINF:-1,cctv1
 http://183.188.197.66:8000/rtp/226.0.2.153:9136
 #EXTINF:-1,CCTV2
