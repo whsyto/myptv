@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,hlj1
+#EXTINF:-1,hlj12
 http://119.91.33.253/migu.php?id=cctv1 
 #EXTINF:-1,cctv1
 http://183.188.197.66:8000/rtp/226.0.2.153:9136
